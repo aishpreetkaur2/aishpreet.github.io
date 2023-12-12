@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: black;
+}
+
+h1{
+    padding-left: 42vw;
+    background-color: pink;
+    color: antiquewhite;
+    font-size: 80px;
+    height: 100px;
+}
+ul{
+    margin-left: 44vw;
+    color: pink;
+    margin-bottom: 10px;
+    
+}
+p{
+    margin:10px;
+    padding:30px;
+    border: 5px solid pink;
+    color: pink;
+}
+img{
+    margin: 50px 0 30px 40vw;
+}

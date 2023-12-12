@@ -1,0 +1,54 @@
+/* Styles for the body and general layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #008080;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Styles for different sections */
+.intro,
+.highlights,
+.interests {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #008080;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #008080;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
